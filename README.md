@@ -24,6 +24,11 @@ You can also find it on the **Releases** page on the right side of this reposito
 **Seeing a "Play Protect" warning?** That's normal for apps that don't come from the
 Play Store. Tap **More details**, then **Install anyway**.
 
+## iPhone
+
+The Android file doesn't work on iPhone. Get the iPhone tutorial here:
+https://github.com/Ryverwatch/SKOOLchat.for.iPhone
+
 ## Also on Windows
 
 SKOOLchat Windows: https://github.com/Ryverwatch/SKOOLchat.for.Windows
