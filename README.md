@@ -26,7 +26,7 @@ Play Store. Tap **More details**, then **Install anyway**.
 
 ## Also on Windows
 
-SKOOLchat Windows: https://github.com/Ryverwatch/SKOOLchat-Windows/releases/latest
+SKOOLchat Windows: https://github.com/Ryverwatch/SKOOLchat.for.Windows
 
 ## About this repository
 
