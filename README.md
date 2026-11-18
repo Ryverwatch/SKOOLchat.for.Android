@@ -36,6 +36,6 @@ SKOOLchat Windows: https://github.com/Ryverwatch/SKOOLchat.for.Windows
 ## About this repository
 
 This repository only hosts the finished Android app file. Every time `SKOOLchat.apk`
-in this repository is updated, GitHub Actions publishes it as the newest release.
+in this repository is updated, GitHub Actions updates the same release.
 
 **Your school. Your conversations.**
