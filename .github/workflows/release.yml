@@ -2,6 +2,9 @@ name: Publish SKOOLchat APK
 
 on:
   push:
+    paths:
+      - 'SKOOLchat.apk'
+      - '.github/workflows/release.yml'
   workflow_dispatch:
 
 permissions:
